@@ -1,0 +1,2 @@
+# Convolutional_Network_Practice
+Practice with convolutional network
